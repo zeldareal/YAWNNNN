@@ -1,5 +1,7 @@
-yet another weird nvim... with nix stripped out..
-are on nixOS/using nix package manager? great!, head over to the main repo :
+
+### Not Nixvim Nvim
+
+are on nixOS/using nix package manager, and want to use/are using nixvim? great!, head over to the main repo : https://github.com/zeldareal/YAWN
 <br>
 ## installation
 ```bash
