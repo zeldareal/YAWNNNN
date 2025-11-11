@@ -1,7 +1,11 @@
-
+## YAWNNN
 ### Yet Another Weird Nvim, Not Nixvim Nvim
 
-are on nixOS/using nix package manager, and want to use/are using nixvim? great!, head over to the main repo : https://github.com/zeldareal/YAWN
+The portable version of [YAWN](https://github.com/zeldareal/YAWN) - for when you want the weird without the Nix.
+
+**Using NixOS/nixvim?** Head over to the main repo: [YAWN](https://github.com/zeldareal/YAWN)
+
+
 <br>
 ## installation
 ```bash
