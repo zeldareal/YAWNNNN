@@ -7,6 +7,8 @@ The portable version of [YAWN](https://github.com/zeldareal/YAWN) - for when you
 
 
 <br>
+
+**ALWAYS READ INSTALL SCRIPTS WHEN YOU FIND THEM, READ THROUGH INSTALL.SH FIRST BEFORE RUNNING IT**
 ## installation
 ```bash
 git clone https://github.com/zeldareal/peasant-YANC.git
@@ -15,7 +17,8 @@ chmod +x install.sh
 ./install.sh
 ```
 
-** always check install scripts before running them! ** read through `install.sh` first to see what it does.
+
+
 <br>
 ### First Launch
 
